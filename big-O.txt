@@ -1,0 +1,23 @@
+1.1: The big O would be Linerar. Each persona is a string representing the breed of thier dog. For each person the breeds will be compared with the golden retriever to see if they match.
+
+1.2: Logarithmic. The inputs can increase with more inputs but can also be cut short if the value is hit quickly enough.
+
+2: Constant. Only one value is going to be calculated as long as the value is valid. 
+
+3: Polynomial. The algorithm involves multiple loops that will slowly increase depending on the size of the arrays.
+
+4: Linear. One input equals one value that will be acquired.
+
+5: Linear. Each object will go through a loop once.
+
+6: Polynomial. There is a loop in a loop.
+
+7: Linear. Each input is one calculation.
+
+8: Exponential. A lot of calculations.
+
+9: Constant. one calculation.
+
+10: Constant.
+
+11: Linear.
